@@ -1,0 +1,10 @@
+C:\Users\Mitch\source\repos\MovieWatchList\MovieDatabase\bin\Debug\MovieDatabase.dacpac
+C:\Users\Mitch\source\repos\MovieWatchList\MovieDatabase\bin\Debug\MovieDatabase.dll
+C:\Users\Mitch\source\repos\MovieWatchList\MovieDatabase\bin\Debug\MovieDatabase.pdb
+C:\Users\Mitch\source\repos\MovieWatchList\MovieDatabase\obj\Debug\MovieDatabase.sqlproj.AssemblyReference.cache
+C:\Users\Mitch\source\repos\MovieWatchList\MovieDatabase\obj\Debug\Model.xml
+C:\Users\Mitch\source\repos\MovieWatchList\MovieDatabase\obj\Debug\refactor.xml
+C:\Users\Mitch\source\repos\MovieWatchList\MovieDatabase\obj\Debug\postdeploy.sql
+C:\Users\Mitch\source\repos\MovieWatchList\MovieDatabase\obj\Debug\predeploy.sql
+C:\Users\Mitch\source\repos\MovieWatchList\MovieDatabase\obj\Debug\MovieDatabase.dll
+C:\Users\Mitch\source\repos\MovieWatchList\MovieDatabase\obj\Debug\MovieDatabase.pdb
